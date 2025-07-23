@@ -199,7 +199,7 @@ body, html {
   }
 }
 
-.video-responsive {
+/*.video-responsive {
   position: relative;
   width: 100%;
   max-width: 960px;
@@ -214,4 +214,11 @@ body, html {
   top: 0;
   left: 0;
   border: none;
+}*/
+
+#mainVideo {
+  width: 100%;
+  max-width: 960px;
+  height: auto;
+  outline: none;
 }
