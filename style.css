@@ -74,7 +74,7 @@ body, html {
 .hero-section {
   display: none;
   min-height: 100vh;
-  background: linear-gradient(to bottom right, #ffccd5, #ffe0e9);
+  background: #ffffff;
   background: url('Media/Main\ image.JPG') no-repeat center center/cover;
   color: var(--bg-dark);
   padding: 50px 20px;
