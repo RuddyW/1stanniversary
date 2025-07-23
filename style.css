@@ -2,13 +2,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background: #000000;
 }
 
 body, html {
   height: 100%;
   font-family: 'Segoe UI', sans-serif;
   scroll-behavior: smooth;
+  background: #000000;
 }
 
 :root {
@@ -74,7 +74,7 @@ body, html {
 .hero-section {
   display: none;
   min-height: 100vh;
-  background: #ffffff;
+  background: linear-gradient(to bottom right, #ffccd5, #ffe0e9);
   background: url('Media/Main\ image.JPG') no-repeat center center/cover;
   color: var(--bg-dark);
   padding: 50px 20px;
